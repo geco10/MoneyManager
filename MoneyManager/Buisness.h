@@ -1,8 +1,8 @@
 #pragma once
 class Buisness
 {
-	double AmountOfMoneySpent;
-	double AmountOfMoneySpentPerMonth [200];
-
+	double OverallExpences;
+	double ExpencesPerMonth_IncomePerMonth [1000][1000];
+	double OverallIncome;
 };
 
